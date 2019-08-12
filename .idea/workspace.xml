@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83d29398-58fc-4260-bac2-ee4b7ee3ed99" name="Default Changelist" comment="" />
+    <list default="true" id="83d29398-58fc-4260-bac2-ee4b7ee3ed99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/BriteUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/crm/CRM_Pages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/crm/CRM_Pages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/login/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/login/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/regression_tests/RegressionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/regression_tests/RegressionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/brite_ERP/pages/crm/CRM_Pages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/brite_ERP/pages/crm/CRM_Pages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/brite_ERP/pages/login/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/brite_ERP/pages/login/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/brite_ERP/tests/components/login/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/brite_ERP/tests/components/login/LoginTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,110 +27,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/login/LoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/crm/CRM_Pages.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="392">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/ConfigurationReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/crm/CRM_Pages.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configration.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/login/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/SeleniumUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/TestBase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/BrowserFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="190">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,10 +68,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/TestBase.java" />
         <option value="$PROJECT_DIR$/configration.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/login/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/ConfigurationReader.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/login/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/regression_tests/RegressionTests.java" />
+        <option value="$PROJECT_DIR$/configuration.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/BriteUtilities.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/login/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/crm/CRM_Pages.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/components/crm/CRM_Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java" />
       </list>
     </option>
   </component>
@@ -159,7 +87,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -169,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -230,28 +159,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="brite_ERP" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="crm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Brite_ERPAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Brite_ERPAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="brite_ERP" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Brite_ERPAutomation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Brite_ERPAutomation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="brite_ERP" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -291,10 +198,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
@@ -318,17 +225,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest.loginTest1">
+  <component name="RunManager" selected="TestNG.CRM_Test.verifyRevenueExpectedResult">
+    <configuration name="CRM_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Brite_ERPAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brite_ERP.pages.components.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brite_ERP.tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="com.brite_ERP.pages.components.crm.CRM_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CRM_Test.verifyRevenueExpectedResult" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Brite_ERPAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.brite_ERP.pages.components.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.brite_ERP.tests.components.crm" />
+      <option name="MAIN_CLASS_NAME" value="com.brite_ERP.pages.components.crm.CRM_Test" />
+      <option name="METHOD_NAME" value="verifyRevenueExpectedResult" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Brite_ERPAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brite_ERP.tests.components.login.*" />
+          <option name="PATTERN" value="com.brite_ERP.pages.components.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.brite_ERP.tests.components.login" />
-      <option name="MAIN_CLASS_NAME" value="com.brite_ERP.tests.components.login.LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="com.brite_ERP.pages.components.login.LoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -340,12 +282,12 @@
       <module name="Brite_ERPAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.brite_ERP.tests.components.login.*" />
+          <option name="PATTERN" value="com.brite_ERP.pages.components.login.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.brite_ERP.tests.components.login" />
-      <option name="MAIN_CLASS_NAME" value="com.brite_ERP.tests.components.login.LoginTest" />
+      <option name="MAIN_CLASS_NAME" value="com.brite_ERP.pages.components.login.LoginTest" />
       <option name="METHOD_NAME" value="loginTest1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -356,8 +298,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTest.loginTest1" />
+        <item itemvalue="TestNG.CRM_Test.verifyRevenueExpectedResult" />
+        <item itemvalue="TestNG.CRM_Test" />
         <item itemvalue="TestNG.LoginTest" />
+        <item itemvalue="TestNG.LoginTest.loginTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -375,27 +319,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 15h 56m 07s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 15h 59m 06s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 00m 01s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 01m 24s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 02m 35s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 04m 56s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 06m 04s.xml">
-      <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 09m 14s.xml">
       <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
     </history-entry>
@@ -405,11 +328,33 @@
     <history-entry file="LoginTest_loginTest1 - 2019.08.01 at 16h 12m 35s.xml">
       <configuration name="LoginTest.loginTest1" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LoginTest - 2019.08.06 at 15h 27m 22s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest - 2019.08.06 at 17h 11m 26s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTest - 2019.08.12 at 09h 01m 03s.xml">
+      <configuration name="LoginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRM_Test - 2019.08.12 at 11h 39m 56s.xml">
+      <configuration name="CRM_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRM_Test - 2019.08.12 at 11h 41m 48s.xml">
+      <configuration name="CRM_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRM_Test - 2019.08.12 at 11h 47m 02s.xml">
+      <configuration name="CRM_Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CRM_Test_verifyRevenueExpectedResult - 2019.08.12 at 12h 03m 37s.xml">
+      <configuration name="CRM_Test.verifyRevenueExpectedResult" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,12 +363,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -446,20 +391,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/login/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/regression_tests/RegressionTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/BrowserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="65">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/BriteUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -474,64 +449,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configration.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/SeleniumUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="-74">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/login/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="255">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/Driver.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/login/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="387">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/SeleniumUtils.java">
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/utilities/BrowserFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/pages/crm/CRM_Pages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        <state relative-caret-position="392">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/brite_ERP/tests/components/crm/CRM_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
